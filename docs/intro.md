@@ -1,47 +1,38 @@
 ---
-sidebar_position: 1
+id: intro
+title: 简介
 ---
 
-# Tutorial Intro
+<div style={{textAlign: 'center'}}>
+顶礼本师释迦牟尼佛！
 
-Let's discover **Docusaurus in less than 5 minutes**.
+顶礼文殊智慧勇识！
 
-## Getting Started
+顶礼传承大恩上师！
+</div>
 
-Get started by **creating a new site**.
+<br />
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+<div style={{textAlign: 'center'}}>
+无上甚深微妙法，百千万劫难遭遇。<br />
+我今见闻得受持，愿解如来真实意。
+</div>
 
-### What you'll need
+<br />
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+愿此网站能方便有缘道友了解、阅读、理解和查阅寂天菩萨的著作《入菩萨行论》，从而深入修习菩提心，早日成就佛果。
 
-## Generate a new site
+<hr />
 
-Generate a new Docusaurus site using the **classic template**.
+## 说明
 
-The classic template will automatically be added to your project after you run the command:
+- 页面左侧的导航结构取材于无著菩萨所著《入行论释·善说海》（索达吉堪布译讲）的科判。
+- 导航结构并未完整包含科判内容。若需完整科判信息，请参阅原著。
+- 若有任何意见或建议，请[发邮件](mailto:michael.shan@gmail.com)给我。
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## 用法
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- 从页面左侧的导航结构，可以了解《入菩萨行论》的行文结构。
+- 点击导航链接后，页面中的相应段落以绿色标出。帮助您理解科判与内容的对应关系。点击正文任意处即可取消绿色标记。
+- 可以使用页面右上角的搜素框进行全文搜索。
+- 可以使用页面右上角的图标切换显示模式。

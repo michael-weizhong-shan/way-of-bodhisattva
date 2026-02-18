@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkway_of_bodhisattva=globalThis.webpackChunkway_of_bodhisattva||[]).push([[647],{7121(a,s,e){e.r(s),e.d(s,{default:()=>i});e(6540);var r=e(4164),t=e(7559),o=e(5500),h=e(2831),u=e(4060),c=e(4848);function i(a){return(0,c.jsx)(o.e3,{className:(0,r.A)(t.G.wrapper.docsPages),children:(0,c.jsx)(u.A,{children:(0,h.v)(a.route.routes)})})}}}]);

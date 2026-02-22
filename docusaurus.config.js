@@ -68,10 +68,24 @@ const config = {
         title: '入菩萨行论',
         items: [
           {
+            type: 'dropdown',
+            label: '浏览模式',
+            items: [
+              {
+                label: '按科判',
+                to: '?mode=standard',
+              },              
+              {
+                label: '按品目',
+                to: '?mode=p',
+              },
+            ],
+          },
+                    {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '简介',
+            label: '关于本站',
           },
         ],
       },

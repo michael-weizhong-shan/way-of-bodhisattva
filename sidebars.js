@@ -1,5 +1,3 @@
-const { type } = require("@generated/site-storage");
-
 module.exports = {
   bodhisattvaSidebar: [
         {

@@ -123,74 +123,65 @@ module.exports = {
                     },
                   ],
                 },
-                {
+                /*{
                   type: 'category',
                   label: '受持之方法',
                   items: ['受持之方法'],
-                },
+                },*/
               ],
             },
-            {
+            /*{
               type: 'category',
               label: '趋入之方法',
               items: ['趋入之方法'],
-            },
+            },*/
           ],
         },
         {
-          type: 'category',
+          type: 'doc',
           label: '第二品 忏悔罪业',
-          link: {type: 'doc', id: 'p2'},
-          items: ['第二品 忏悔罪业'],
+          id: 'p2',
         },
         {
-          type: 'category',
+          type: 'doc',
           label: '第三品 受持菩提心',
-          link: {type: 'doc', id: 'p3'},
-          items: ['第三品 受持菩提心'],
+          id: 'p3',
         },
         {
-          type: 'category',
+          type: 'doc',
           label: '第四品 不放逸',
-          link: {type: 'doc', id: 'p4'},
-          items: ['第四品 不放逸'],
+          id: 'p4',
         },
         {
-          type: 'category',
+          type: 'doc',
           label: '第五品 正知正念',
-          link: {type: 'doc', id: 'p5'},
-          items: ['第五品 正知正念'],
+          id: 'p5',
         },
         {
-          type: 'category',
+          type: 'doc',
           label: '第六品 安忍',
-          link: {type: 'doc', id: 'p6'},
-          items: ['第六品 安忍'],
+          id: 'p6',
         },
         {
-          type: 'category',
+          type: 'doc',
           label: '第七品 精进',
-          link: {type: 'doc', id: 'p7'},
-          items: ['第七品 精进'],
+          id: 'p7',
         },
         {
-          type: 'category',
+          type: 'doc',
           label: '第八品 静虑',
-          link: {type: 'doc', id: 'p8'},
-          items: ['第八品 静虑'],
+          id: 'p8',
         },
         {
-          type: 'category',
+          type: 'doc',
           label: '第九品 智慧',
-          link: {type: 'doc', id: 'p9'},
-          items: ['第九品 智慧'],
+          id: 'p9',
         },
         {
-          type: 'category',
+          type: 'doc',
           label: '第十品 回向',
-          link: {type: 'doc', id: 'p10'},
-          items: ['第十品 回向'],
-        }
+          id: 'p10',
+        },
       ],
 
 

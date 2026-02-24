@@ -70,20 +70,22 @@ const config = {
           {
             type: 'dropdown',
             label: '浏览模式',
+            position: 'left',
             items: [
               {
-                label: '按科判',
-                to: '?mode=standard',
-              },              
+                label: '按科判浏览',
+                type: 'doc',
+                docId: 'analysis/p0-analysis', 
+              },
               {
-                label: '按品目',
-                to: '?mode=p',
+                label: '按品目浏览',
+                type: 'doc',
+                docId: 'chapters/p0-chapter',
               },
             ],
           },
-                    {
-            type: 'doc',
-            docId: 'intro',
+          {
+            to: '/intro',
             position: 'left',
             label: '关于本站',
           },
@@ -92,7 +94,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} Created with Love`,
+        copyright: `© ${new Date().getFullYear()} 网站版权开放，欢迎流通`,
       },
       prism: {
         theme: prismThemes.github,

@@ -127,10 +127,6 @@ module.exports = {
                   type: 'category',
                   label: '受持之方法',
                   items: [
-                    {
-                      type: 'category',
-                      label: '总义',
-                      items: [
                         {
                           type: 'category',
                           label: '加行',
@@ -191,9 +187,100 @@ module.exports = {
                                 },
                                 {type: 'link', label: '顶礼', href: '/analysis/p2-analysis/?h=47-50',},
                                 {type: 'link', label: '皈依', href: '/analysis/p2-analysis/?h=51-52',},
-                                /*{
+                                {
                                   type: 'category',
                                   label: '忏罪',
+                                  items: [
+                                    {
+                                      type: 'category',
+                                      label: '厌患对治力',
+                                      items: [
+                                        {type: 'link', label: '总说忏悔罪业之方式', href: '/analysis/p2-analysis/?h=53-58',},
+                                        {type: 'link', label: '依殊胜对境而忏悔特殊罪业之方式', href: '/analysis/p2-analysis/?h=59-62',},
+                                      ],
+                                    },
+                                    {
+                                      type: 'category',
+                                      label: '所依对治力',
+                                      items: [
+                                        {
+                                          type: 'category',
+                                          label: '皈依原因',
+                                          items: [
+                                            {type: 'link', label: '略说', href: '/analysis/p2-analysis/?h=63-64',},
+                                            {
+                                              type: 'category',
+                                              label: '广说',
+                                              items: [
+                                                {
+                                                  type: 'category',
+                                                  label: '思维疾速死亡而生起皈依之心',
+                                                  items: [
+                                                    {type: 'link', label: '略说', href: '/analysis/p2-analysis/?h=65-68',},
+                                                    {type: 'link', label: '广说', href: '/analysis/p2-analysis/?h=69-74',},
+                                                    {type: 'link', label: '摄义', href: '/analysis/p2-analysis/?h=75-78',},
+                                                  ],
+                                                },
+                                                {
+                                                  type: 'category',
+                                                  label: '思维死亡极恐怖而生起皈依之心',
+                                                  items: [
+                                                    {type: 'link', label: '略说', href: '/analysis/p2-analysis/?h=79-84',},
+                                                    {type: 'link', label: '广说', href: '/analysis/p2-analysis/?h=85-92',},
+                                                  ],
+                                                },
+                                              ],
+                                            },
+                                          ],
+                                        },
+                                        {
+                                          type: 'category',
+                                          label: '所皈依之对境',
+                                          items: [
+                                            {type: 'link', label: '皈依共同三宝', href: '/analysis/p2-analysis/?h=93-96',},
+                                            {type: 'link', label: '皈依具愿力之菩萨', href: '/analysis/p2-analysis/?h=97-104',},
+                                          ],
+                                        },
+                                        {type: 'link', label: '如何皈依', href: '/analysis/p2-analysis/?h=105-106',},
+                                      ],
+                                    },
+                                    {
+                                      type: 'category',
+                                      label: '现行对治力',
+                                      items: [
+                                        {
+                                          type: 'category',
+                                          label: '理当精进对治',
+                                          items: [
+                                            {type: 'link', label: '以患者之喻说明', href: '/analysis/p2-analysis/?h=107-112',},
+                                            {type: 'link', label: '以险处之喻说明', href: '/analysis/p2-analysis/?h=113-114',},
+                                          ],
+                                        },
+                                        {
+                                          type: 'category',
+                                          label: '迅速精进',
+                                          items: [
+                                            {type: 'link', label: '寿命不可靠', href: '/analysis/p2-analysis/?h=115-118',},
+                                            {type: 'link', label: '受用不可靠', href: '/analysis/p2-analysis/?h=119-120',},
+                                            {type: 'link', label: '亲友不可靠', href: '/analysis/p2-analysis/?h=121-122',},
+                                          ],
+                                        },
+                                        {
+                                          type: 'category',
+                                          label: '如何精进',
+                                          items: [
+                                            {type: 'link', label: '意乐', href: '/analysis/p2-analysis/?h=123-124',},
+                                            {type: 'link', label: '加行', href: '/analysis/p2-analysis/?h=125-128',},
+                                          ],
+                                        },
+                                      ],
+                                    },
+                                    {type: 'link', label: '返回对治力', href: '/analysis/p2-analysis/?h=129-130',},
+                                  ],
+                                },
+                                /*{
+                                  type: 'category',
+                                  label: '随喜',
                                   items: [],
                                 },*/
                               ],
@@ -204,8 +291,6 @@ module.exports = {
                     },
                   ],
                 },
-              ],
-            },
             /*{
               type: 'category',
               label: '趋入之方法',
@@ -213,7 +298,7 @@ module.exports = {
             },*/
           ],
         },
-        {
+        /*{
           type: 'doc',
           label: '第三品 受持菩提心',
           id: 'analysis/p3-analysis',
@@ -251,8 +336,8 @@ module.exports = {
         {
           type: 'doc',
           label: '第十品 回向',
-          id: 'analysis/p1-analysis',
-        },
+          id: 'analysis/p10-analysis',
+        },*/
       ],
 
 

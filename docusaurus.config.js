@@ -104,7 +104,7 @@ const config = {
         links: [],
         copyright: `
           <div style="margin-top: 10px; font-size: 0.8rem; opacity: 0.8;">
-            © ${new Date().getFullYear()} 网站版权开放，欢迎流通
+            © ${new Date().getFullYear()} Michael Shan 谨识 | 网站版权开放，欢迎流通
           </div>
           <div style="margin-top: 10px; font-size: 0.8rem; opacity: 0.8;">
             愿将本网站所有微薄功德，回向给十方法界一切众生，祈愿离苦得乐，早证菩提。

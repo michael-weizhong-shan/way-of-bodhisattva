@@ -278,11 +278,110 @@ module.exports = {
                                     {type: 'link', label: '返回对治力', href: '/analysis/p2-analysis/?h=129-130',},
                                   ],
                                 },
-                                /*{
+                                {
                                   type: 'category',
                                   label: '随喜',
-                                  items: [],
-                                },*/
+                                  link: { type: 'doc', id: 'analysis/p3-analysis' },
+                                  items: [
+                                    {type: 'link', label: '随喜世间善', href: '/analysis/p3-analysis/?h=1-2',},
+                                    {type: 'link', label: '随喜出间善', href: '/analysis/p3-analysis/?h=3-7',},
+                                  ],
+                                },
+                                {type: 'link', label: '请转法轮', href: '/analysis/p3-analysis/?h=8-9',},
+                                {type: 'link', label: '祈请不涅槃', href: '/analysis/p3-analysis/?h=10-11',},
+                                {
+                                  type: 'category',
+                                  label: '回向福德',
+                                  link: { type: 'doc', id: 'analysis/p3-analysis' },
+                                  items: [
+                                    {type: 'link', label: '总回向', href: '/analysis/p3-analysis/?h=12-13',},
+                                    {
+                                      type: 'category',
+                                      label: '别回向',
+                                      link: { type: 'doc', id: 'analysis/p3-analysis' },
+                                      items: [
+                                        {type: 'link', label: '为患病者回向', href: '/analysis/p3-analysis/?h=14-15',},
+                                        {type: 'link', label: '为饥渴者回向', href: '/analysis/p3-analysis/?h=16-17',},
+                                        {type: 'link', label: '为贫穷者回向', href: '/analysis/p3-analysis/?h=18-19',},
+                                      ],
+                                    },
+                                  ],
+                                },
+                              ],
+                            },
+                            {
+                              type: 'category',
+                              label: '为利他而修心',
+                              link: { type: 'doc', id: 'analysis/p3-analysis' },
+                              items: [
+                                {
+                                  type: 'category',
+                                  label: '总说布施一切',
+                                  link: { type: 'doc', id: 'analysis/p3-analysis' },
+                                  items: [
+                                    {type: 'link', label: '所施', href: '/analysis/p3-analysis/?h=20-21',},
+                                    {type: 'link', label: '原因', href: '/analysis/p3-analysis/?h=22-23',},
+                                  ],
+                                },
+                                {
+                                  type: 'category',
+                                  label: '别说布施身体',
+                                  link: { type: 'doc', id: 'analysis/p3-analysis' },
+                                  items: [
+                                    {
+                                      type: 'category',
+                                      label: '布施缘自己而造业之众生',
+                                      link: { type: 'doc', id: 'analysis/p3-analysis' },
+                                      items: [
+                                        {type: 'link', label: '无条件而布施', href: '/analysis/p3-analysis/?h=24-28',},
+                                        {
+                                          type: 'category',
+                                          label: '发愿成为利益之因',
+                                          link: { type: 'doc', id: 'analysis/p3-analysis' },
+                                          items: [
+                                            {type: 'link', label: '总说', href: '/analysis/p3-analysis/?h=29',},
+                                            {
+                                              type: 'category',
+                                              label: '别说',
+                                              link: { type: 'doc', id: 'analysis/p3-analysis' },
+                                              items: [
+                                                {type: 'link', label: '回向意乐具义', href: '/analysis/p3-analysis/?h=30-31',},
+                                                {type: 'link', label: '回向行为具义', href: '/analysis/p3-analysis/?h=32-33',},
+                                              ],
+                                            },
+                                          ],
+                                        },
+                                      ],
+                                    },
+                                    {type: 'link', label: '回向成为利众之因', href: '/analysis/p3-analysis/?h=34-44',},
+                                  ],
+                                },
+                              ],
+                            },
+                          ],
+                        },
+                        {type: 'link', label: '正行', href: '/analysis/p3-analysis/?h=45-48',},
+                        {
+                          type: 'category',
+                          label: '后行',
+                          link: { type: 'doc', id: 'analysis/p3-analysis' },
+                          items: [
+                            {type: 'link', label: '连接文', href: '/analysis/p3-analysis/?h=49-50',},
+                            {
+                              type: 'category',
+                              label: '真实后行',
+                              link: { type: 'doc', id: 'analysis/p3-analysis' },
+                              items: [
+                                {
+                                  type: 'category',
+                                  label: '令自欢喜',
+                                  link: { type: 'doc', id: 'analysis/p3-analysis' },
+                                  items: [
+                                    {type: 'link', label: '因成办自利而生欢喜', href: '/analysis/p3-analysis/?h=51-56',},
+                                    {type: 'link', label: '因成办他利而生欢喜', href: '/analysis/p3-analysis/?h=57-65',},
+                                  ],
+                                },
+                                {type: 'link', label: '令他欢喜', href: '/analysis/p3-analysis/?h=66-67',},
                               ],
                             },
                           ],
@@ -298,11 +397,7 @@ module.exports = {
             },*/
           ],
         },
-        /*{
-          type: 'doc',
-          label: '第三品 受持菩提心',
-          id: 'analysis/p3-analysis',
-        },
+/*
         {
           type: 'doc',
           label: '第四品 不放逸',

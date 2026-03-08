@@ -390,11 +390,184 @@ module.exports = {
                     },
                   ],
                 },
-            /*{
+            {
               type: 'category',
               label: '趋入之方法',
-              items: ['趋入之方法'],
-            },*/
+              link: { type: 'doc', id: 'analysis/p4-analysis' },
+              items: [
+                {
+                  type: 'category',
+                  label: '戒律',
+                  link: { type: 'doc', id: 'analysis/p4-analysis' },
+                  items: [
+                    {
+                      type: 'category',
+                      label: '不放逸',
+                      items: [
+                        {type: 'link', label: '略说', href: '/analysis/p4-analysis/?h=1-2',},
+                        {
+                          type: 'category',
+                          label: '广说',
+                          link: { type: 'doc', id: 'analysis/p4-analysis' },
+                          items: [
+                            {
+                              type: 'category',
+                              label: '谨慎修学所修',
+                              link: { type: 'doc', id: 'analysis/p4-analysis' },
+                              items: [
+                                {type: 'link', label: '不舍菩提心之合理性', href: '/analysis/p4-analysis/?h=3-6',},
+                                {
+                                  type: 'category',
+                                  label: '舍弃菩提心之过患',
+                                  link: { type: 'doc', id: 'analysis/p4-analysis' },
+                                  items: [
+                                    {
+                                      type: 'category',
+                                      label: '异熟果堕恶趣',
+                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
+                                      items: [
+                                        {type: 'link', label: '真实宣说', href: '/analysis/p4-analysis/?h=7-8',},
+                                        {type: 'link', label: '彼之合理性', href: '/analysis/p4-analysis/?h=9-12',},
+                                        {type: 'link', label: '遣除争论', href: '/analysis/p4-analysis/?h=13-14',},
+                                      ],
+                                    },
+                                    {type: 'link', label: '失毁利他行为', href: '/analysis/p4-analysis/?h=15-20',},
+                                    {type: 'link', label: '阻碍解脱', href: '/analysis/p4-analysis/?h=21-22',},
+                                  ],
+                                },
+                                {type: 'link', label: '教诫不舍菩提心', href: '/analysis/p4-analysis/?h=23-28',},
+                              ],
+                            },
+                            {
+                              type: 'category',
+                              label: '谨慎所依暇满',
+                              link: { type: 'doc', id: 'analysis/p4-analysis' },
+                              items: [
+                                {type: 'link', label: '暇满难得', href: '/analysis/p4-analysis/?h=29-32',},
+                                {
+                                  type: 'category',
+                                  label: '未得之过患',
+                                  link: { type: 'doc', id: 'analysis/p4-analysis' },
+                                  items: [
+                                    {
+                                      type: 'category',
+                                      label: '真实宣说',
+                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
+                                      items: [
+                                        {type: 'link', label: '堕恶趣不行善法', href: '/analysis/p4-analysis/?h=33-36',},
+                                        {type: 'link', label: '不得善趣', href: '/analysis/p4-analysis/?h=37-38',},
+                                      ],
+                                    },
+                                    {
+                                      type: 'category',
+                                      label: '彼之依据',
+                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
+                                      items: [
+                                        {type: 'link', label: '教证之依据', href: '/analysis/p4-analysis/?h=39-40',},
+                                        {type: 'link', label: '理证之依据', href: '/analysis/p4-analysis/?h=41-44',},
+                                      ],
+                                    },
+                                  ],
+                                },
+                                 {
+                                  type: 'category',
+                                  label: '得后不勤而舍',
+                                  link: { type: 'doc', id: 'analysis/p4-analysis' },
+                                  items: [
+                                    {type: 'link', label: '略说', href: '/analysis/p4-analysis/?h=45-46',},
+                                    {
+                                      type: 'category',
+                                      label: '广说',
+                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
+                                      items: [
+                                        {type: 'link', label: '思维愚笨之果报', href: '/analysis/p4-analysis/?h=47-50',},
+                                        {type: 'link', label: '呵责彼本体', href: '/analysis/p4-analysis/?h=51-53',},
+                                        {type: 'link', label: '观察彼因', href: '/analysis/p4-analysis/?h=54',},
+                                      ],
+                                    },
+                                  ],
+                                },
+                              ],
+                            },
+                            {
+                              type: 'category',
+                              label: '谨慎所断烦恼',
+                              link: { type: 'doc', id: 'analysis/p4-analysis' },
+                              items: [
+                                {
+                                  type: 'category',
+                                  label: '观察所断烦恼',
+                                  link: { type: 'doc', id: 'analysis/p4-analysis' },
+                                  items: [
+                                    {
+                                      type: 'category',
+                                      label: '思维烦恼过患',
+                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
+                                      items: [
+                                        {type: 'link', label: '非理损害', href: '/analysis/p4-analysis/?h=55-58',},
+                                        {type: 'link', label: '作大损害', href: '/analysis/p4-analysis/?h=59-64',},
+                                        {type: 'link', label: '教诫切莫依止烦恼', href: '/analysis/p4-analysis/?h=65-66',},
+                                      ],
+                                    },
+                                    {type: 'link', label: '作意烦恼非为所依', href: '/analysis/p4-analysis/?h=67-70',},
+                                  ],
+                                },
+                                {
+                                  type: 'category',
+                                  label: '生起断除欲乐',
+                                  link: { type: 'doc', id: 'analysis/p4-analysis' },
+                                  items: [
+                                    {type: 'link', label: '披上断惑盔甲', href: '/analysis/p4-analysis/?h=71-74',},
+                                    {
+                                      type: 'category',
+                                      label: '莫因痛苦而厌倦',
+                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
+                                      items: [
+                                        {type: 'link', label: '观察所断之罪过而不厌倦', href: '/analysis/p4-analysis/?h=75-82',},
+                                        {type: 'link', label: '观察对治之功德而不厌倦', href: '/analysis/p4-analysis/?h=83-90',},
+                                        {type: 'link', label: '观察自己承诺而不厌倦', href: '/analysis/p4-analysis/?h=91-93',},
+                                      ],
+                                    },
+                                    {type: 'link', label: '坚持不懈对治烦恼', href: '/analysis/p4-analysis/?h=94-98',},
+                                  ],
+                                },
+                                {type: 'link', label: '能断除烦恼而生欢喜', href: '/analysis/p4-analysis/?h=99-106',},
+                              ],
+                            },
+                          ],
+                        },
+                        {type: 'link', label: '摄义', href: '/analysis/p4-analysis/?h=107-108',},
+                      ],
+                    },
+                    /*{
+                      type: 'category',
+                      label: '正知正念',
+                      items: ['TBD'],
+                    },*/
+                  ],
+                },
+                /*
+
+                {
+                  type: 'category',
+                  label: '精进',
+                  link: { type: 'doc', id: 'analysis/p4-analysis' },
+                  items: ['TBD'],
+                },
+                {
+                  type: 'category',
+                  label: '静虑',
+                  link: { type: 'doc', id: 'analysis/p4-analysis' },
+                  items: ['TBD'],
+                },
+                {
+                  type: 'category',
+                  label: '智慧',
+                  link: { type: 'doc', id: 'analysis/p4-analysis' },
+                  items: ['TBD'],
+                },*/
+              ],
+            },
           ],
         },
 /*

@@ -98,3 +98,13 @@ h2, h3 {
   text-align: center;
   margin-bottom: 2rem; /* Adds some space below the title */
 }
+
+/* Force hide the breadcrumbs container */
+.theme-doc-breadcrumbs {
+  display: none !important;
+}
+
+/* Optional: Reduce the top padding of the article since the breadcrumbs are gone */
+.theme-doc-markdown {
+  margin-top: 1rem;
+}

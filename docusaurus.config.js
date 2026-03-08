@@ -66,12 +66,15 @@ const config = {
       colorMode: {
         respectPrefersColorScheme: true,
       },
+      breadcrumbs: false,
       docs: {
         sidebar: {
           hideable: true,
           autoCollapseCategories: true,
         },
       },
+      
+      pagination: false,
       navbar: {
         title: '入菩萨行论',
         items: [

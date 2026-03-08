@@ -292,13 +292,11 @@ module.exports = {
                                 {
                                   type: 'category',
                                   label: '回向福德',
-                                  link: { type: 'doc', id: 'analysis/p3-analysis' },
                                   items: [
                                     {type: 'link', label: '总回向', href: '/analysis/p3-analysis/?h=12-13',},
                                     {
                                       type: 'category',
                                       label: '别回向',
-                                      link: { type: 'doc', id: 'analysis/p3-analysis' },
                                       items: [
                                         {type: 'link', label: '为患病者回向', href: '/analysis/p3-analysis/?h=14-15',},
                                         {type: 'link', label: '为饥渴者回向', href: '/analysis/p3-analysis/?h=16-17',},
@@ -312,12 +310,10 @@ module.exports = {
                             {
                               type: 'category',
                               label: '为利他而修心',
-                              link: { type: 'doc', id: 'analysis/p3-analysis' },
                               items: [
                                 {
                                   type: 'category',
                                   label: '总说布施一切',
-                                  link: { type: 'doc', id: 'analysis/p3-analysis' },
                                   items: [
                                     {type: 'link', label: '所施', href: '/analysis/p3-analysis/?h=20-21',},
                                     {type: 'link', label: '原因', href: '/analysis/p3-analysis/?h=22-23',},
@@ -326,24 +322,20 @@ module.exports = {
                                 {
                                   type: 'category',
                                   label: '别说布施身体',
-                                  link: { type: 'doc', id: 'analysis/p3-analysis' },
                                   items: [
                                     {
                                       type: 'category',
                                       label: '布施缘自己而造业之众生',
-                                      link: { type: 'doc', id: 'analysis/p3-analysis' },
                                       items: [
                                         {type: 'link', label: '无条件而布施', href: '/analysis/p3-analysis/?h=24-28',},
                                         {
                                           type: 'category',
                                           label: '发愿成为利益之因',
-                                          link: { type: 'doc', id: 'analysis/p3-analysis' },
                                           items: [
                                             {type: 'link', label: '总说', href: '/analysis/p3-analysis/?h=29',},
                                             {
                                               type: 'category',
                                               label: '别说',
-                                              link: { type: 'doc', id: 'analysis/p3-analysis' },
                                               items: [
                                                 {type: 'link', label: '回向意乐具义', href: '/analysis/p3-analysis/?h=30-31',},
                                                 {type: 'link', label: '回向行为具义', href: '/analysis/p3-analysis/?h=32-33',},
@@ -364,18 +356,15 @@ module.exports = {
                         {
                           type: 'category',
                           label: '后行',
-                          link: { type: 'doc', id: 'analysis/p3-analysis' },
                           items: [
                             {type: 'link', label: '连接文', href: '/analysis/p3-analysis/?h=49-50',},
                             {
                               type: 'category',
                               label: '真实后行',
-                              link: { type: 'doc', id: 'analysis/p3-analysis' },
                               items: [
                                 {
                                   type: 'category',
                                   label: '令自欢喜',
-                                  link: { type: 'doc', id: 'analysis/p3-analysis' },
                                   items: [
                                     {type: 'link', label: '因成办自利而生欢喜', href: '/analysis/p3-analysis/?h=51-56',},
                                     {type: 'link', label: '因成办他利而生欢喜', href: '/analysis/p3-analysis/?h=57-65',},
@@ -398,7 +387,6 @@ module.exports = {
                 {
                   type: 'category',
                   label: '戒律',
-                  link: { type: 'doc', id: 'analysis/p4-analysis' },
                   items: [
                     {
                       type: 'category',
@@ -408,23 +396,19 @@ module.exports = {
                         {
                           type: 'category',
                           label: '广说',
-                          link: { type: 'doc', id: 'analysis/p4-analysis' },
                           items: [
                             {
                               type: 'category',
                               label: '谨慎修学所修',
-                              link: { type: 'doc', id: 'analysis/p4-analysis' },
                               items: [
                                 {type: 'link', label: '不舍菩提心之合理性', href: '/analysis/p4-analysis/?h=3-6',},
                                 {
                                   type: 'category',
                                   label: '舍弃菩提心之过患',
-                                  link: { type: 'doc', id: 'analysis/p4-analysis' },
                                   items: [
                                     {
                                       type: 'category',
                                       label: '异熟果堕恶趣',
-                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
                                       items: [
                                         {type: 'link', label: '真实宣说', href: '/analysis/p4-analysis/?h=7-8',},
                                         {type: 'link', label: '彼之合理性', href: '/analysis/p4-analysis/?h=9-12',},
@@ -441,18 +425,15 @@ module.exports = {
                             {
                               type: 'category',
                               label: '谨慎所依暇满',
-                              link: { type: 'doc', id: 'analysis/p4-analysis' },
                               items: [
                                 {type: 'link', label: '暇满难得', href: '/analysis/p4-analysis/?h=29-32',},
                                 {
                                   type: 'category',
                                   label: '未得之过患',
-                                  link: { type: 'doc', id: 'analysis/p4-analysis' },
                                   items: [
                                     {
                                       type: 'category',
                                       label: '真实宣说',
-                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
                                       items: [
                                         {type: 'link', label: '堕恶趣不行善法', href: '/analysis/p4-analysis/?h=33-36',},
                                         {type: 'link', label: '不得善趣', href: '/analysis/p4-analysis/?h=37-38',},
@@ -461,7 +442,6 @@ module.exports = {
                                     {
                                       type: 'category',
                                       label: '彼之依据',
-                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
                                       items: [
                                         {type: 'link', label: '教证之依据', href: '/analysis/p4-analysis/?h=39-40',},
                                         {type: 'link', label: '理证之依据', href: '/analysis/p4-analysis/?h=41-44',},
@@ -472,13 +452,11 @@ module.exports = {
                                  {
                                   type: 'category',
                                   label: '得后不勤而舍',
-                                  link: { type: 'doc', id: 'analysis/p4-analysis' },
                                   items: [
                                     {type: 'link', label: '略说', href: '/analysis/p4-analysis/?h=45-46',},
                                     {
                                       type: 'category',
                                       label: '广说',
-                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
                                       items: [
                                         {type: 'link', label: '思维愚笨之果报', href: '/analysis/p4-analysis/?h=47-50',},
                                         {type: 'link', label: '呵责彼本体', href: '/analysis/p4-analysis/?h=51-53',},
@@ -492,17 +470,14 @@ module.exports = {
                             {
                               type: 'category',
                               label: '谨慎所断烦恼',
-                              link: { type: 'doc', id: 'analysis/p4-analysis' },
                               items: [
                                 {
                                   type: 'category',
                                   label: '观察所断烦恼',
-                                  link: { type: 'doc', id: 'analysis/p4-analysis' },
                                   items: [
                                     {
                                       type: 'category',
                                       label: '思维烦恼过患',
-                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
                                       items: [
                                         {type: 'link', label: '非理损害', href: '/analysis/p4-analysis/?h=55-58',},
                                         {type: 'link', label: '作大损害', href: '/analysis/p4-analysis/?h=59-64',},
@@ -515,13 +490,11 @@ module.exports = {
                                 {
                                   type: 'category',
                                   label: '生起断除欲乐',
-                                  link: { type: 'doc', id: 'analysis/p4-analysis' },
                                   items: [
                                     {type: 'link', label: '披上断惑盔甲', href: '/analysis/p4-analysis/?h=71-74',},
                                     {
                                       type: 'category',
                                       label: '莫因痛苦而厌倦',
-                                      link: { type: 'doc', id: 'analysis/p4-analysis' },
                                       items: [
                                         {type: 'link', label: '观察所断之罪过而不厌倦', href: '/analysis/p4-analysis/?h=75-82',},
                                         {type: 'link', label: '观察对治之功德而不厌倦', href: '/analysis/p4-analysis/?h=83-90',},

@@ -512,11 +512,173 @@ module.exports = {
                         {type: 'link', label: '摄义', href: '/analysis/p4-analysis/?h=107-108',},
                       ],
                     },
-                    /*{
+                    {
                       type: 'category',
                       label: '正知正念',
-                      items: ['TBD'],
-                    },*/
+                      link: { type: 'doc', id: 'analysis/p5-analysis' },
+                      items: [
+                        {
+                          type: 'category',
+                          label: '护戒之方便法 - 护心',
+                          items: [
+                            {type: 'link', label: '略说', href: '/analysis/p5-analysis/?h=1-2',},
+                            {
+                              type: 'category',
+                              label: '广说',
+                              items: [
+                                {
+                                  type: 'category',
+                                  label: '需护心之理由',
+                                  items: [
+                                    {type: 'link', label: '未护心之过患', href: '/analysis/p5-analysis/?h=3-4',},
+                                    {
+                                      type: 'category',
+                                      label: '护心之功德',
+                                      items: [
+                                        {type: 'link', label: '略说', href: '/analysis/p5-analysis/?h=5-6',},
+                                        {
+                                          type: 'category',
+                                          label: '广说',
+                                          items: [
+                                            {
+                                              type: 'category',
+                                              label: '遣除怖畏',
+                                              items: [
+                                                {type: 'link', label: '真实宣说', href: '/analysis/p5-analysis/?h=7-10',},
+                                                {type: 'link', label: '依据', href: '/analysis/p5-analysis/?h=11-16',},
+                                              ],
+                                            },
+                                            {
+                                              type: 'category',
+                                              label: '修持善法',
+                                              items: [
+                                                {type: 'link', label: '布施度', href: '/analysis/p5-analysis/?h=17-20',},
+                                                {type: 'link', label: '持戒度', href: '/analysis/p5-analysis/?h=21-22',},
+                                                {type: 'link', label: '安忍度', href: '/analysis/p5-analysis/?h=23-28',},
+                                                {type: 'link', label: '精进度', href: '/analysis/p5-analysis/?h=29-30',},
+                                                {type: 'link', label: '静虑度', href: '/analysis/p5-analysis/?h=31-32',},
+                                                {type: 'link', label: '智慧度', href: '/analysis/p5-analysis/?h=33-34',},
+                                              ],
+                                            },
+                                          ],
+                                        },
+                                      ],
+                                    },
+                                    {type: 'link', label: '摄义', href: '/analysis/p5-analysis/?h=35-36',},
+                                  ],
+                                },
+                                {type: 'link', label: '护持方法', href: '/analysis/p5-analysis/?h=37-40',},
+                                {type: 'link', label: '如是护持之功德', href: '/analysis/p5-analysis/?h=41-42',},
+                                {type: 'link', label: '需精勤护持之理', href: '/analysis/p5-analysis/?h=43-44',},
+                              ],
+                            },
+                          ],
+                        },
+                        {
+                          type: 'category',
+                          label: '护正知正念',
+                          items: [
+                            {type: 'link', label: '教诫护正知正念', href: '/analysis/p5-analysis/?h=45-46',},
+                            {
+                              type: 'category',
+                              label: '未护之过患',
+                              items: [
+                                {type: 'link', label: '未护正知正念之过患', href: '/analysis/p5-analysis/?h=47-48',},
+                                {
+                                  type: 'category',
+                                  label: '未护正知之过患',
+                                  items: [
+                                    {type: 'link', label: '失毁智慧', href: '/analysis/p5-analysis/?h=49-50',},
+                                    {type: 'link', label: '失毁戒律', href: '/analysis/p5-analysis/?h=51-52',},
+                                  ],
+                                },  
+                                {type: 'link', label: '未护正念之过患', href: '/analysis/p5-analysis/?h=53-56',},
+                              ],
+                            },
+                            {
+                              type: 'category',
+                              label: '护持之方法',
+                              items: [
+                                {
+                                  type: 'category',
+                                  label: '护持正念之方法',
+                                  items: [
+                                    {type: 'link', label: '护持方式', href: '/analysis/p5-analysis/?h=57-58',},
+                                    {type: 'link', label: '生起之因', href: '/analysis/p5-analysis/?h=59-63',},
+                                    {type: 'link', label: '护持之果', href: '/analysis/p5-analysis/?h=64-66',},
+                                  ],
+                                },
+                                {
+                                  type: 'category',
+                                  label: '护持正念之方法',
+                                  items: [
+                                    {type: 'link', label: '正知之前行', href: '/analysis/p5-analysis/?h=67-68',},
+                                    {
+                                      type: 'category',
+                                      label: '一同趋入',
+                                      items: [
+                                        {
+                                          type: 'category',
+                                          label: '观察三门状态',
+                                          items: [
+                                            {type: 'link', label: '观察身体所做', href: '/analysis/p5-analysis/?h=69-78',},
+                                            {type: 'link', label: '观察心之动态', href: '/analysis/p5-analysis/?h=79-82',},
+                                            {type: 'link', label: '开许放松之时', href: '/analysis/p5-analysis/?h=83-88',},
+                                          ],
+                                        },
+                                        {
+                                          type: 'category',
+                                          label: '观后当控制',
+                                          items: [
+                                            {
+                                              type: 'category',
+                                              label: '中止非事',
+                                              items: [
+                                                {type: 'link', label: '断除贪执散漫', href: '/analysis/p5-analysis/?h=89-90',},
+                                                {type: 'link', label: '断除无义之事', href: '/analysis/p5-analysis/?h=91-92',},
+                                                {
+                                                  type: 'category',
+                                                  label: '断除烦恼引发之事',
+                                                  items: [
+                                                    {type: 'link', label: '略说', href: '/analysis/p5-analysis/?h=93-94',},
+                                                    {type: 'link', label: '广说', href: '/analysis/p5-analysis/?h=95-106',},
+                                                    {type: 'link', label: '摄义', href: '/analysis/p5-analysis/?h=107-108',},
+                                                  ],
+                                                },
+                                              ],
+                                            },
+                                            {type: 'link', label: '行持应事', href: '/analysis/p5-analysis/?h=109-114',},
+                                            {
+                                              type: 'category',
+                                              label: '修未如是行之对治',
+                                              items: [
+                                                {type: 'link', label: '思维暇满难得', href: '/analysis/p5-analysis/?h=115-116',},
+                                                {
+                                                  type: 'category',
+                                                  label: '已得当取实义',
+                                                  items: [
+                                                    {type: 'link', label: '身体无有所贪精华', href: '/analysis/p5-analysis/?h=117-131',},
+                                                    {type: 'link', label: '依身当修法', href: '/analysis/p5-analysis/?h=132-140',},
+                                                  ],
+                                                },
+                                              ],
+                                            },
+                                          ],
+                                        },
+                                        //{控制后作修心之行},
+                                        //{成圆满学处之支分},
+                                      ],
+                                    },
+                                    //{略说护持正知之法相},
+                                  ],
+                                },
+                              ],
+                            },
+                          ],
+                        },
+                        {type: 'link', label: '教诫结合相续而精进', href: '/analysis/p5-analysis/?h=215-216',},
+                      ],
+                    },
                   ],
                 },
                 /*
@@ -544,16 +706,6 @@ module.exports = {
           ],
         },
 /*
-        {
-          type: 'doc',
-          label: '第四品 不放逸',
-          id: 'analysis/p4-analysis',
-        },
-        {
-          type: 'doc',
-          label: '第五品 正知正念',
-          id: 'analysis/p5-analysis',
-        },
         {
           type: 'doc',
           label: '第六品 安忍',

@@ -665,11 +665,83 @@ module.exports = {
                                             },
                                           ],
                                         },
-                                        //{控制后作修心之行},
-                                        //{成圆满学处之支分},
+                                        {
+                                          type: 'category',
+                                          label: '控制后作修心之行',
+                                          items: [
+                                            {
+                                              type: 'category',
+                                              label: '一切行为中当具正知',
+                                              items: [
+                                                {
+                                                  type: 'category',
+                                                  label: '总说一切时分所作之行',
+                                                  items: [
+                                                    {type: 'link', label: '平时行为寂静', href: '/analysis/p5-analysis/?h=141-146',},
+                                                    {type: 'link', label: '必定随顺他众', href: '/analysis/p5-analysis/?h=147-155',},
+                                                    {type: 'link', label: '善行自己之事', href: '/analysis/p5-analysis/?h=156-159',},
+                                                  ],
+                                                },
+                                                {
+                                                  type: 'category',
+                                                  label: '尤其趋入善法之行',
+                                                  items: [
+                                                    {
+                                                      type: 'category',
+                                                      label: '自行修行之理',
+                                                      items: [
+                                                        {type: 'link', label: '宣说所修有力善法', href: '/analysis/p5-analysis/?h=160-161',},
+                                                        {type: 'link', label: '修行方法', href: '/analysis/p5-analysis/?h=162-163',},
+                                                        {type: 'link', label: '宣说胜劣取舍', href: '/analysis/p5-analysis/?h=164-165',},
+                                                      ],
+                                                    },
+                                                    {
+                                                      type: 'category',
+                                                      label: '饶益他众之理',
+                                                      items: [
+                                                        {type: 'link', label: '略说', href: '/analysis/p5-analysis/?h=166-167',},
+                                                        {
+                                                          type: 'category',
+                                                          label: '广说',
+                                                          items: [
+                                                            {
+                                                              type: 'category',
+                                                              label: '以财饶益',
+                                                              items: [
+                                                                {type: 'link', label: '施衣食之方式', href: '/analysis/p5-analysis/?h=168-169',},
+                                                                {type: 'link', label: '施身之方式', href: '/analysis/p5-analysis/?h=170-173',},
+                                                              ],
+                                                            },
+                                                            {type: 'link', label: '以法饶益', href: '/analysis/p5-analysis/?h=174-179',},
+                                                          ],
+                                                        },
+                                                      ],
+                                                    },
+                                                  ],
+                                                },
+                                                {type: 'link', label: '断除成为世间不信之行', href: '/analysis/p5-analysis/?h=180-189',},
+                                                {type: 'link', label: '护持睡眠对境之理', href: '/analysis/p5-analysis/?h=190-191',},
+                                              ],
+                                            },
+                                            {type: 'link', label: '主要宣说修心', href: '/analysis/p5-analysis/?h=192-193',},
+                                            {type: 'link', label: '净除成为心之障碍', href: '/analysis/p5-analysis/?h=194-195',},
+                                          ],
+                                        },
+                                        {
+                                          type: 'category',
+                                          label: '成圆满学处之支分',
+                                          items: [
+                                            {type: 'link', label: '精勤修学学处', href: '/analysis/p5-analysis/?h=196-197',},
+                                            {type: 'link', label: '修学多种知识', href: '/analysis/p5-analysis/?h=198-199',},
+                                            {type: 'link', label: '刻意修学利他', href: '/analysis/p5-analysis/?h=200-201',},
+                                            {type: 'link', label: '依止善友善知识方式', href: '/analysis/p5-analysis/?h=202-204',},
+                                            {type: 'link', label: '为了知学处而参阅经典等', href: '/analysis/p5-analysis/?h=205-212',},
+                                          ],
+                                        },
                                       ],
                                     },
-                                    //{略说护持正知之法相},
+                                    {type: 'link', label: '略说护持正知之法相', href: '/analysis/p5-analysis/?h=213-214',},
+                                    //{},
                                   ],
                                 },
                               ],
@@ -705,32 +777,6 @@ module.exports = {
             },
           ],
         },
-/*
-        {
-          type: 'doc',
-          label: '第六品 安忍',
-          id: 'analysis/p6-analysis',
-        },
-        {
-          type: 'doc',
-          label: '第七品 精进',
-          id: 'analysis/p7-analysis',
-        },
-        {
-          type: 'doc',
-          label: '第八品 静虑',
-          id: 'analysis/p8-analysis',
-        },
-        {
-          type: 'doc',
-          label: '第九品 智慧',
-          id: 'analysis/p9-analysis',
-        },
-        {
-          type: 'doc',
-          label: '第十品 回向',
-          id: 'analysis/p10-analysis',
-        },*/
       ],
 
 

@@ -610,7 +610,7 @@ module.exports = {
                                 },
                                 {
                                   type: 'category',
-                                  label: '护持正念之方法',
+                                  label: '护持正知之方法',
                                   items: [
                                     {type: 'link', label: '正知之前行', href: '/analysis/p5-analysis/?h=67-68',},
                                     {

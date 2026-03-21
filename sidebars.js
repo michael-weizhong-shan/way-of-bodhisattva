@@ -857,39 +857,104 @@ module.exports = {
                                                           type: 'category',
                                                           label: '别破常我',
                                                           items: [
-                                                            {type: 'link', label: '破享用者', href: '/analysis/p6-analysis/?h=55-56',},
-                                                            {type: 'link', label: '破能生果', href: '/analysis/p6-analysis/?h=57-60',},
+                                                            {type: 'link', label: '破享用者', href: '/analysis/p6-analysis/?h=56-57',},
+                                                            {type: 'link', label: '破能生果', href: '/analysis/p6-analysis/?h=58-61',},
                                                           ],
                                                         }
                                                       ],
                                                     },
-                                                    {type: 'link', label: '摄义', href: '/analysis/p6-analysis/?h=61-62',},
+                                                    {type: 'link', label: '摄义', href: '/analysis/p6-analysis/?h=62-63',},
                                                   ],
                                                 },
-                                                {type: 'link', label: '遣除除嗔不应理之邪念', href: '/analysis/p6-analysis/?h=63-64',},
-                                                {type: 'link', label: '摄义', href: '/analysis/p6-analysis/?h=65-68',},
+                                                {type: 'link', label: '遣除除嗔不应理之邪念', href: '/analysis/p6-analysis/?h=64-65',},
+                                                {type: 'link', label: '摄义', href: '/analysis/p6-analysis/?h=66-69',},
                                               ],
                                             },
-                                            /* slide 4{
+                                            {
                                               type: 'category',
                                               label: '忍耐作害者之安忍',
-                                              items: [],
-                                            },*/
+                                              items: [
+                                                {type: 'link', label: '作害者理应是悲悯之对境', href: '/analysis/p6-analysis/?h=70-77',},
+                                                {
+                                                  type: 'category',
+                                                  label: '不应是嗔恨之对境',
+                                                  items: [
+                                                    {
+                                                      type: 'category',
+                                                      label: '观察作害者之自性',
+                                                      items: [
+                                                        {type: 'link', label: '观察本体', href: '/analysis/p6-analysis/?h=78-81',},
+                                                        {type: 'link', label: '观察害法', href: '/analysis/p6-analysis/?h=82-83',},
+                                                      ],
+                                                    },
+                                                    {
+                                                      type: 'category',
+                                                      label: '观察受害者自己之过失',
+                                                      items: [
+                                                        {type: 'link', label: '说明以往自己曾害过他人', href: '/analysis/p6-analysis/?h=84-85',},
+                                                        {type: 'link', label: '说明自身之过失', href: '/analysis/p6-analysis/?h=86-89',},
+                                                        {type: 'link', label: '说明业力之过失', href: '/analysis/p6-analysis/?h=90-93',},
+                                                      ],
+                                                    },
+                                                  ],
+                                                },
+                                                {type: 'link', label: '宣说嗔恨之颠倒理由', href: '/analysis/p6-analysis/?h=94-103',},
+                                              ],
+                                            },
                                           ],
                                         },
-                                        /*{
+                                        {
                                           type: 'category',
                                           label: '破嗔轻侮我等三者',
-                                          items: [],
-                                        },*/
+                                          items: [
+                                            {type: 'link', label: '轻侮等无害故不应嗔恨', href: '/analysis/p6-analysis/?h=104-109',},
+                                            {
+                                              type: 'category',
+                                              label: '不应嗔成为利养之违缘者',
+                                              items: [
+                                                {type: 'link', label: '嗔罪严重', href: '/analysis/p6-analysis/?h=110-113',},
+                                                {type: 'link', label: '利养无有实质', href: '/analysis/p6-analysis/?h=114-119',},
+                                                {type: 'link', label: '遮破有实质之妄念', href: '/analysis/p6-analysis/?h=120-123',},
+                                              ],
+                                            },
+                                            {type: 'link', label: '不应嗔令他人不信者', href: '/analysis/p6-analysis/?h=124-127',},
+                                          ],
+                                        },
                                       ],
                                     },
-                                    /*{
+                                    {
                                       type: 'category',
                                       label: '遮破于令亲友造四罪者',
-                                      items: [],
+                                      items: [
+                                        {type: 'link', label: '因于对境无害而止嗔', href: '/analysis/p6-analysis/?h=128-129',},
+                                        {
+                                          type: 'category',
+                                          label: '破嗔于受害者造罪之人',
+                                          items: [
+                                            {type: 'link', label: '深思法理之安忍', href: '/analysis/p6-analysis/?h=130-131',},
+                                            {
+                                              type: 'category',
+                                              label: '不畏损害之安忍',
+                                              items: [
+                                                {
+                                                  type: 'category',
+                                                  label: '怨敌不应为嗔恨之对境',
+                                                  items: [
+                                                    {type: 'link', label: '与无情损害相同', href: '/analysis/p6-analysis/?h=132-133',},
+                                                    {type: 'link', label: '与嗔者罪业相同', href: '/analysis/p6-analysis/?h=134-135',},
+                                                    {type: 'link', label: '害由业生故不应嗔敌', href: '/analysis/p6-analysis/?h=136-137',},
+                                                  ],
+                                                },
+                                                {type: 'link', label: '是故断除嗔彼', href: '/analysis/p6-analysis/?h=138-139',},
+                                                {type: 'link', label: '为断嗔而除贪', href: '/analysis/p6-analysis/?h=140-143',},
+                                              ],
+                                            },
+                                            {type: 'link', label: '修承受痛苦之安忍', href: '/analysis/p6-analysis/?h=144-151',},
+                                          ],
+                                        },
+                                      ],
                                     },
-                                    {
+                                    /* page 8 {
                                       type: 'category',
                                       label: '遮破于怨敌作四善者',
                                       items: [],

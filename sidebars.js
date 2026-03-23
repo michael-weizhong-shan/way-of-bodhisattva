@@ -954,18 +954,141 @@ module.exports = {
                                         },
                                       ],
                                     },
-                                    /* page 8 {
+                                    {
                                       type: 'category',
-                                      label: '遮破于怨敌作四善者',
-                                      items: [],
-                                    },*/
+                                      label: '破嗔于怨敌作四善者',
+                                      items: [
+                                        {
+                                          type: 'category',
+                                          label: '破嗔赞誉怨敌者',
+                                          items: [
+                                            {type: 'link', label: '堪为自乐之因故当取受', href: '/analysis/p6-analysis/?h=152-155',},
+                                            {type: 'link', label: '是他乐之因故不应舍弃', href: '/analysis/p6-analysis/?h=156-157',},
+                                            {type: 'link', label: '宣说颠倒取舍之理', href: '/analysis/p6-analysis/?h=158-159',},
+                                          ],
+                                        },
+                                        {type: 'link', label: '破嗔令怨敌安乐者', href: '/analysis/p6-analysis/?h=160-161',},
+                                        {
+                                          type: 'category',
+                                          label: '破嗔成办怨敌利养者',
+                                          items: [
+                                            {
+                                              type: 'category',
+                                              label: '不应以得利养等之因而嗔他',
+                                              items: [
+                                                {type: 'link', label: '因实现自之愿望故不应生嗔', href: '/analysis/p6-analysis/?h=162-167',},
+                                                {type: 'link', label: '因不加害我故不应生嗔', href: '/analysis/p6-analysis/?h=168-169',},
+                                              ],
+                                            },
+                                            {type: 'link', label: '理当以未得之因而嗔己', href: '/analysis/p6-analysis/?h=170-173',},
+                                          ],
+                                        },
+                                      ],
+                                    },
                                   ],
                                 },
-                                /*{
+                                {
                                   type: 'category',
                                   label: '遮破于障碍所欲者生嗔',
-                                  items: [],
-                                },*/
+                                  items: [
+                                    {
+                                      type: 'category',
+                                      label: '破嗔于怨敌造罪作障者',
+                                      items: [
+                                        {type: 'link', label: '敌人痛苦于己不利', href: '/analysis/p6-analysis/?h=174-175',},
+                                        {type: 'link', label: '愿敌痛苦之心有害', href: '/analysis/p6-analysis/?h=176-179',},
+                                      ],
+                                    },
+                                    {
+                                      type: 'category',
+                                      label: '破嗔于自己与亲友行善作障者',
+                                      items: [
+                                        {
+                                          type: 'category',
+                                          label: '破嗔于世间法作障者',
+                                          items: [
+                                            {
+                                              type: 'category',
+                                              label: '阻碍赞誉者并非有害',
+                                              items: [
+                                                {type: 'link', label: '赞誉无有利乐', href: '/analysis/p6-analysis/?h=180-187',},
+                                                {type: 'link', label: '不应喜之', href: '/analysis/p6-analysis/?h=188-195',},
+                                              ],
+                                            },
+                                            {type: 'link', label: '将阻碍赞誉者视为有益', href: '/analysis/p6-analysis/?h=196-203',},
+                                          ],
+                                        },
+                                        {
+                                          type: 'category',
+                                          label: '破嗔于福德作障者',
+                                          items: [
+                                            {type: 'link', label: '嗔恨是福德之障', href: '/analysis/p6-analysis/?h=204-207',},
+                                            {type: 'link', label: '作害是顺缘', href: '/analysis/p6-analysis/?h=208-211',},
+                                            {
+                                              type: 'category',
+                                              label: '故当消除嗔恨而恭敬',
+                                              items: [
+                                                {
+                                                  type: 'category',
+                                                  label: '以众生自之功德当恭敬',
+                                                  items: [
+                                                    {
+                                                      type: 'category',
+                                                      label: '是成就我菩提之助缘故当恭敬',
+                                                      items: [
+                                                        {type: 'link', label: '恭敬之因成立', href: '/analysis/p6-analysis/?h=212-217',},
+                                                        {type: 'link', label: '断除于彼迷惑', href: '/analysis/p6-analysis/?h=218-223',},
+                                                      ],
+                                                    },
+                                                    {
+                                                      type: 'category',
+                                                      label: '建立众生与佛相同',
+                                                      items: [
+                                                        {type: 'link', label: '安立教证', href: '/analysis/p6-analysis/?h=224',},
+                                                        {
+                                                          type: 'category',
+                                                          label: '教义成立',
+                                                          items: [
+                                                            {type: 'link', label: '真实宣说', href: '/analysis/p6-analysis/?h=225-227',},
+                                                            {type: 'link', label: '遣除争论', href: '/analysis/p6-analysis/?h=228-237',},
+                                                          ],
+                                                        },
+                                                      ],
+                                                    },
+                                                  ],
+                                                },
+                                                {
+                                                  type: 'category',
+                                                  label: '信仰佛陀故当恭敬',
+                                                  items: [
+                                                    {
+                                                      type: 'category',
+                                                      label: '佛将众生作为我所',
+                                                      items: [
+                                                        {type: 'link', label: '当恭敬之理由', href: '/analysis/p6-analysis/?h=238-247',},
+                                                        {type: 'link', label: '忏悔不敬之过', href: '/analysis/p6-analysis/?h=248-251',},
+                                                      ],
+                                                    },
+                                                    {type: 'link', label: '佛将众生作为我', href: '/analysis/p6-analysis/?h=252-253',},
+                                                  ],
+                                                },
+                                                {
+                                                  type: 'category',
+                                                  label: '观察果当恭敬',
+                                                  items: [
+                                                    {type: 'link', label: '宣说取悦众生是诸善之因', href: '/analysis/p6-analysis/?h=254-255',},
+                                                    {type: 'link', label: '以此方式教诫勤奋', href: '/analysis/p6-analysis/?h=256-265',},
+                                                    {type: 'link', label: '摄义', href: '/analysis/p6-analysis/?h=266-269',},
+                                                  ],
+                                                },
+                                              ],
+                                            },
+                                          ],
+                                        },
+                                      ],
+                                    },
+                                  ],
+                                },
                               ],
                             },
                           ],
